@@ -1,5 +1,7 @@
 # GoLang Commons Packages
 
+:warning::warning: **This package was migrate for [this repository](https://github.com/ralvescosta/toolkit)** :warning::warning:
+
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ralvescostati_pkgs&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ralvescostati_pkgs)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ralvescostati_pkgs&metric=coverage)](https://sonarcloud.io/summary/new_code?id=ralvescostati_pkgs)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ralvescostati_pkgs&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ralvescostati_pkgs)
